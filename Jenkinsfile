@@ -11,7 +11,7 @@ pipeline {
     environment {
         REPO_URL = 'https://github.com/quang21122/sv_cicd.git'
         BRANCH_NAME = "${params.BRANCH_NAME}"
-        IMAGE_NAME = 'ntquan87/app-ci-cd'
+        IMAGE_NAME = 'ntquan87/NHMQUANG'
     }
 
 
